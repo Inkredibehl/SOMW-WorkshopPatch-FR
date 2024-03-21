@@ -1,0 +1,10 @@
+Recipes_FR = {
+
+    Recipe_Disassamble_SOMWShortBlade = "Démonter Lame courte",
+    Recipe_Disassamble_SOMWAxe = "Démonter Hache",
+    Recipe_Disassamble_SOMWLongBlade = "Démonter Lame longue",
+    Recipe_Disassamble_GardenShears = "Démonter Cisaille de Jardin",
+    Recipe_Deconstruct_SOMWSmallWeapon = "Désassembler Petite arme",
+    Recipe_Deconstruct_SOMWBigWeapon = "Désassembler Grande arme",
+
+}

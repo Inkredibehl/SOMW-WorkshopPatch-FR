@@ -1,0 +1,6 @@
+Tooltip_FR = {
+
+	Tooltip_WorkshopMagSOMW = "Enseigne comment désassembler et déconstruire un plus grand nombre d'armes différentes.",
+	
+} 
+	
